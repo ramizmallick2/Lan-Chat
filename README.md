@@ -43,6 +43,4 @@ The app requests the following permissions to function correctly:
 4. Set up your username on the welcome screen.
 5. Tap on a discovered peer in the list to start chatting or calling!
 
-## Author
 
-Created and developed entirely by me. All rights reserved.
